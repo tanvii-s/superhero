@@ -1,0 +1,77 @@
+header{
+	background-image:url("https://wp.technologyreview.com/wp-content/uploads/2019/05/hubble-telescope-nasa-10.jpg");
+	text-align:center;
+}
+
+footer{
+	background-image:url("https://wp.technologyreview.com/wp-content/uploads/2019/05/hubble-telescope-nasa-10.jpg");
+	text-align:center;
+}
+
+footer p{
+	color: white;
+	font-family:cursive;
+	padding-top:10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	margin:0px;
+	font-size:20px;
+}
+
+header p{
+	font-family: 'Indie Flower', cursive;
+	font-size: 80px;
+	color: #DCDCDC;
+	margin: 0px;
+	padding:10px;
+
+}
+
+header img{
+	border-radius: 220px;
+	width: 400px;
+	border: 20px solid;
+	border-color: #C0C0C0;
+}
+
+main{
+	padding:10px;
+	font-family: 'David Libre', serif;
+	font-size:20px;
+	max-width:100%;
+	background-image:url("https://www.cleanpng.com/png-samsung-galaxy-s8-galaxy-png-picture-116356/");
+	margin:0 auto;
+}
+
+main p{
+	padding-left:10px;
+}
+
+main h2{
+	text-align:center;
+	font-size: 40px;
+	font-family: 'Piazzolla', serif;
+}
+
+main img{
+	max-width: 100%;
+	padding-left:20px;
+}
+
+a{
+	color:#708090;
+}
+
+.listhead{
+	font-family: 'Piazzolla', serif;
+	font-style:italic;
+	font-style:bold;
+	font-size:30px;
+}
+
+.caption{
+	padding-top:0px;
+	text-align:center;
+	margin-top:0px;
+	font-size:18px;
+}
