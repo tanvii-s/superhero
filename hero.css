@@ -42,7 +42,6 @@ main{
 	padding:10px;
 	font-family: 'David Libre', serif;
 	font-size:20px;
-	max-width:100%;
 	background-color:white;
 	margin:0 auto;
 	width:800px;
@@ -76,7 +75,7 @@ footer a{
 	font-style:italic;
 	font-style:bold;
 	font-size:30px;
-	line-height: 25px;
+	line-height: 20px;
 }
 
 .caption{
@@ -84,7 +83,7 @@ footer a{
 	text-align:center;
 	margin-top:0px;
 	font-size:18px;
-	line-height: 25px;
+	line-height: 20px;
 }
 
 .listt{
