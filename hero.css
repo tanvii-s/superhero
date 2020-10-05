@@ -1,5 +1,5 @@
 element.style{
-	margin: 0;
+	margin: 0px;
 }
 
 header{
@@ -51,7 +51,7 @@ main{
 
 main p{
 	padding-left:10px;
-	line-height: 30px;
+	line-height: 25px;
 }
 
 main h2{
@@ -76,7 +76,7 @@ footer a{
 	font-style:italic;
 	font-style:bold;
 	font-size:30px;
-	line-height: 30px;
+	line-height: 25px;
 }
 
 .caption{
@@ -84,5 +84,9 @@ footer a{
 	text-align:center;
 	margin-top:0px;
 	font-size:18px;
-	line-height: 30px;
+	line-height: 25px;
+}
+
+.listt{
+	line-height:25px;
 }
